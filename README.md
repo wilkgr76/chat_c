@@ -1,6 +1,6 @@
 # mt-colour-chat
 ## How to install:
-Extract folder and rename to chat_c
+Extract folder and rename to chat_c. (Technically, it can have any name you like, but this is easier to remember what it is.)
 ## How to use:
 Players can prefix their messages with a letter (or series of letters) and it will colour their message. 
 * b (blue)
