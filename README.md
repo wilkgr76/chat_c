@@ -1,4 +1,4 @@
-# mt-colour-chat
+# chat_c
 ## How to install:
 Extract ZIP file and place in mods/. Alternatively, you can simply "git clone https://github.com/wilkgr76/chat_c" from within the mods directory.
 ## How to use:
