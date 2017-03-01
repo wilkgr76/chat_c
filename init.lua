@@ -1,4 +1,7 @@
-minetest.register_privilege("chat_c", {description = "Can colour their chat", give_to_singleplayer=true})
+minetest.register_privilege("chat_c", {
+  description = "Can colour their chat",
+  give_to_singleplayer=true
+})
 
 local helper = {
   {"r","red",3},
@@ -17,12 +20,13 @@ minetest.register_on_chat_message(function(name, message)
               minetest.chat_send_all("<" .. name .. "> " .. msg)
           return true
       end
-      end
+    end
+  end
 end)
 
 minetest.register_chatcommand("public_warning", {
    params = "<text>",
-   description = "Send red chat message",
+   description = "Send red message",
    privs = {basic_privs=true},
    func = function(name, param)
       local msg = core.colorize("red", param);
