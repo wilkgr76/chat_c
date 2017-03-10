@@ -13,6 +13,6 @@ Players can prefix their messages with a letter (or series of letters) and it wi
 ## Example
 If the player chats "g Thank you wilkgr", then other players will see 
 ```diff
-Thank you wilkgr
++Thank you wilkgr
 ```
 and with your name in front of it of course.
