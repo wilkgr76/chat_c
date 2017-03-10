@@ -12,5 +12,5 @@ Players can prefix their messages with a letter (or series of letters) and it wi
 
 ## Example
 If the player chats "g Thank you wilkgr", then other players will see 
-"<you>```diff +Thank you wilkgr111"
+"<you>```diff +Thank you wilkgr```"
 and the message itself will be green. Now that I've explained it, it sounds complicated. It isn't - just try it!
