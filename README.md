@@ -19,3 +19,4 @@ then other players will see:
 ```diff
 + <you> Thanks wilkgr
 ```
+(except for the '+'. That's to make Github highlight it green)
