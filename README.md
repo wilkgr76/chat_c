@@ -11,8 +11,11 @@ Players can prefix their messages with a letter (or series of letters) and it wi
 * p (pink)
 
 ## Example
-If the player chats "g Thank you wilkgr", then other players will see 
-```diff
-+ Thank you wilkgr
+If you chat
 ```
-and with your name in front of it of course.
+g Thanks wilkgr
+```
+then other players will see:
+```diff
++ <you> Thanks wilkgr
+```
