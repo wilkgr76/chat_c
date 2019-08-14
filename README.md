@@ -17,7 +17,7 @@ https://wiki.minetest.net/Installing_Mods
 
 ## Dependencies
 - default (included in minetest_game)
-#### Optional dependencies:
+#### Optional dependencies
 - [intllib](https://github.com/minetest-mods/intllib)
 
 ## How to use
