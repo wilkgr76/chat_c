@@ -29,7 +29,7 @@ Players can prefix their messages with a letter (or series of letters) and it wi
 * r (red)
 * p (pink)
 
-If you type on chat:
+If you type in chat:
 ```
 g Thanks wilkgr
 ```
