@@ -3,7 +3,7 @@ Allows players to colour their chat messages.
 (See the example below.)
 
 ## Installation
-- Unzip the archive, rename the folder to "soccer" (**without the quotes**) and
+- Unzip the archive, rename the folder to chat_c and
 place it in ..minetest/mods/
 
 - GNU/Linux: If you use a system-wide installation place
