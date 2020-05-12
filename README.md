@@ -1,9 +1,9 @@
 # Coloured Chat
-Allows players to colour their chat messages.
+Allows players to colour their chat messages.<br>
 (See the example below.)
 
 ## Installation
-- Unzip the archive, rename the folder to chat_c and
+- Unzip the archive, rename the folder to `chat_c` and
 place it in ..minetest/mods/
 
 - GNU/Linux: If you use a system-wide installation place
@@ -16,9 +16,9 @@ For further information or help, see:
 https://wiki.minetest.net/Installing_Mods
 
 ## Dependencies
-- default (included in minetest_game)
+- `default` (included in minetest_game)
 #### Optional dependencies
-- [intllib](https://github.com/minetest-mods/intllib)
+- [`intllib`](https://github.com/minetest-mods/intllib)
 
 ## How to use
 Players can prefix their messages with a letter (or series of letters) and it will colour their message. 
