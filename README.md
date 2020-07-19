@@ -3,20 +3,16 @@ Allows players to colour their chat messages.<br>
 (See the example below.)
 
 ## Installation
-- Unzip the archive, rename the folder to `chat_c` and
-place it in ..minetest/mods/
+- On Windows, clone the repository to minetest/mods/
 
-- GNU/Linux: If you use a system-wide installation place
-    it in ~/.minetest/mods/.
+- GNU/Linux: On a system-wide installations, clone to ~/.minetest/mods/.
 
-- If you only want this to be used in a single world, place
-    the folder in ..worldmods/ in your world directory.
+- If you only want this to be used in a single world, place the folder in worldmods/ in your world directory.
 
-For further information or help, see:
-https://wiki.minetest.net/Installing_Mods
+For further information or help, see [the Minetest Wiki page](https://wiki.minetest.net/Installing_Mods).
 
 ## Dependencies
-- `default` (included in minetest_game)
+- `default` (included in Minetest Game)
 #### Optional dependencies
 - [`intllib`](https://github.com/minetest-mods/intllib)
 
@@ -29,12 +25,4 @@ Players can prefix their messages with a letter (or series of letters) and it wi
 * r (red)
 * p (pink)
 
-If you type in chat:
-```
-g Thanks wilkgr
-```
-then other players will see:
-```diff
-+ <you> Thanks wilkgr
-```
-(except for the '+'. That's to make Github highlight it green.)
+For example, you can type `g Hello darkness my old friend` which will remove the prefix and colour the text green.
