@@ -1,0 +1,33 @@
+# Spanish translation for Coloured Chat.
+# Copyright (C) 2017-2019 wilkgr76 and contributors.
+# This file is distributed under under the same license as the Teleport Request package.
+# Panquesito7, 2019.
+
+msgid ""
+msgstr ""
+"Project-Id-Version: Coloured Chat\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-13 7:26+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: init.lua
+msgid "Allows players to colour their chat messages."
+msgstr "Permite a los jugadors colorear sus mensajes."
+
+#: init.lua
+msgid "Sends a public warning to all players."
+msgstr "Envía una advertencia pública a todos los jugadores."
+
+#: init.lua
+msgid "<text>"
+msgstr "<texto>"
+
+#: init.lua
+msgid "[MOD] Coloured-chat loaded"
+msgstr "[MOD] Chat-coloreado cargado"

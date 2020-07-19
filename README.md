@@ -1,7 +1,26 @@
-# chat_c
-## How to install:
-Extract ZIP file and place in mods/. Alternatively, you can simply "git clone https://github.com/wilkgr76/chat_c" from within the mods directory.
-## How to use:
+# Coloured Chat
+Allows players to colour their chat messages.<br>
+(See the example below.)
+
+## Installation
+- Unzip the archive, rename the folder to `chat_c` and
+place it in ..minetest/mods/
+
+- GNU/Linux: If you use a system-wide installation place
+    it in ~/.minetest/mods/.
+
+- If you only want this to be used in a single world, place
+    the folder in ..worldmods/ in your world directory.
+
+For further information or help, see:
+https://wiki.minetest.net/Installing_Mods
+
+## Dependencies
+- `default` (included in minetest_game)
+#### Optional dependencies
+- [`intllib`](https://github.com/minetest-mods/intllib)
+
+## How to use
 Players can prefix their messages with a letter (or series of letters) and it will colour their message. 
 * b (blue)
 * lb (lightblue)
@@ -10,8 +29,7 @@ Players can prefix their messages with a letter (or series of letters) and it wi
 * r (red)
 * p (pink)
 
-## Example
-If you chat
+If you type in chat:
 ```
 g Thanks wilkgr
 ```
@@ -19,4 +37,4 @@ then other players will see:
 ```diff
 + <you> Thanks wilkgr
 ```
-(except for the '+'. That's to make Github highlight it green)
+(except for the '+'. That's to make Github highlight it green.)
